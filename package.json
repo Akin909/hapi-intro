@@ -1,0 +1,9 @@
+{
+  "name": "hapi-intro",
+  "version": "1.0.0",
+  "description": "A hapi intro workshop",
+  "main": "index.js",
+  "repository": "git://github.com/Akin909/hapi-intro.git",
+  "author": "Akin909 <akin.sowemimo@gmail.com>",
+  "license": "MIT"
+}
